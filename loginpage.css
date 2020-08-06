@@ -18,7 +18,7 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  background-color: green;
+  background-color: LightGreen;
   border-radius: 7px;
   }
 #login-error-msg-holder {
