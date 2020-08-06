@@ -14,4 +14,4 @@ loginButton.addEventListener("click", myFunction);
     } else {
         alert("Not valid username or password");
     }
-})
+}
