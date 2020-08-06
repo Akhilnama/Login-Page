@@ -1,0 +1,41 @@
+html{
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  background-imgage: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbackground%2F&psig=AOvVaw0-H_W06ibHDeLE3CcJq2Gk&ust=1596793529193000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCCs8qlhusCFQAAAAAdAAAAABAD)
+  background-color: #f44336;
+}
+#main-holder {
+  width: 50%;
+  height: 70%;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  background-color: green;
+  border-radius: 7px;
+  }
+  #login-error-msg-holder {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+#login-error-msg {
+  width: 23%;
+  text-align: center;
+  margin: 0;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  border: 1px solid #8a0000;
+  background-color: red;
+  opacity: 0;
+}
