@@ -8,7 +8,7 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  background-imgage: url(https://github.com/Akhilnama/Login-Page/blob/master/pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg)
+  background-imgage: url("pexels-miguel-á-padriñán-255379.jpg");
 
 }
 #main-holder {
